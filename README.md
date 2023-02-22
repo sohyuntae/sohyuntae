@@ -32,7 +32,6 @@
       <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
       <a href="https://sotae.notion.site/67ea48a9c8394dd1ad2a4f6374ec097d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
     </div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohyuntae&show_icons=true&theme=radical)
 </div>
 
   
