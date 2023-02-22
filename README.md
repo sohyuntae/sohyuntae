@@ -1,7 +1,7 @@
 <div align="left">
   <h2> 👨‍💻 ME </h2>
   <a href="https://sotae.notion.site/67ea48a9c8394dd1ad2a4f6374ec097d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  <a href="mailto:sotae69@gmail.com"><img src="https://img.shields.io/badge/sotae69@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   </br>
   👋 Hi~! 
   
