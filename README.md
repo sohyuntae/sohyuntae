@@ -1,6 +1,8 @@
 <div align="left">
   <h2> 👨‍💻 ME </h2>
-  Hi~! 
+  <a href="https://sotae.notion.site/67ea48a9c8394dd1ad2a4f6374ec097d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  👋 Hi~! 
+  
 </div>
 <div align="left"> 
   <h2>⭐Tech Stack</h2>
@@ -35,7 +37,7 @@
       <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
       <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
       <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-      <a href="https://sotae.notion.site/67ea48a9c8394dd1ad2a4f6374ec097d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
     </div>
 </div>
 
