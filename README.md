@@ -1,10 +1,13 @@
 <div align="left"> 
   <h2> Tech Stack <h2>
-  <h3> :bulb: Programming languages </h3>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1EF?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+    <div> 
+      <h3> :bulb: Programming languages </h3>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1EF?style=flat-square&logo=JavaScript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+    </div>
+  
   <h3>:bulb: Frontend</h3>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
@@ -32,7 +35,6 @@
   <a href="https://sotae.notion.site/67ea48a9c8394dd1ad2a4f6374ec097d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <br/>
 </div>
-  <br/>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohyuntae&show_icons=true&theme=radical)
 
 
