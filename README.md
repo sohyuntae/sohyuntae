@@ -1,15 +1,12 @@
-<div align="center"> 
-  ####  :clipboard: Once I've Used
-</div>
 <div align="left"> 
-  <h2> Tech Stack <h2>
+  <h2> 📚Tech Stack 📚 <h2>
     <div> 
-      <h3> :bulb: Programming languages </h3>
+      <h3> 📚 Programming languages 📚 </h3>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1EF?style=flat-square&logo=JavaScript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-      <h3>:bulb: Frontend</h3>
+      <h3>📚 Frontend 📚</h3>
       <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/>
