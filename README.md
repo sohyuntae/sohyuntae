@@ -1,7 +1,7 @@
 <div align="left"> 
-  <h2> Tech Stack <h2>
+  <h2> Tech Stack </h2>
     <div> 
-      <h3> Programming languages </h3>
+      <h4> Programming languages </h4>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1EF?style=flat-square&logo=JavaScript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
