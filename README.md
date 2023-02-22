@@ -2,5 +2,7 @@
 
 <a href="https://www.naver.com" target="_blank"><img src="https://img.shields.io/badge/Notion?style=flat-square&logo=Notion&logoColor=white"/></a>
 
+<img src="https://img.shields.io/badge/Notion?style=flat-square&logo=Notion&logoColor=white"/>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohyuntae&show_icons=true&theme=radical)
