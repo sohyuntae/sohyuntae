@@ -2,7 +2,6 @@
 
 <a href="https://www.naver.com" target="_blank"><img src="https://img.shields.io/badge/Notion-#000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Notion?style=flat-square&logo=Notion&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
