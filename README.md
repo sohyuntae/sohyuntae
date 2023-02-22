@@ -1,6 +1,5 @@
 <div align="left"> 
   <h2> Tech Stack <h2>
-  <br/>
   <h3> :bulb: Programming languages </h3>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1EF?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
@@ -33,8 +32,7 @@
   <a href="https://sotae.notion.site/67ea48a9c8394dd1ad2a4f6374ec097d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <br/>
 </div>
-
-
+  <br/>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohyuntae&show_icons=true&theme=radical)
 
 
