@@ -1,5 +1,6 @@
 <div align="center">
-  <h2> 🧑‍💻 ME </h2>
+  <h2> 👨‍💻 ME </h2>
+  Hi~! 
 </div>
 <div align="left"> 
   <h2>⭐Tech Stack</h2>
