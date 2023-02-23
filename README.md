@@ -46,9 +46,10 @@
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
     </div>
 </div>
-  
-  
-참조 
-https://velog.io/@devstone
-
+<div align="left"> 
+  <h2>🧟‍♂️Projects </h2>
+</div>
+<div align="left"> 
+  <h2>🏊‍♂️Experience </h2>
+</div>
 
