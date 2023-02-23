@@ -3,11 +3,11 @@
   <a href="https://sotae.notion.site/67ea48a9c8394dd1ad2a4f6374ec097d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="mailto:sotae69@gmail.com"><img src="https://img.shields.io/badge/sotae69@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   </br>
-  Hi there~!!!👋 my name is Hyuntae, and I'm web developer 
-  I have experience 4 years of Web development.🚀
-  At present, I have working on creating Graph-QL APIs with Java and a web screen with Vue.
-  
-  In my free time, I enjoy experimenting with new web technologies, building personal projects. (Movies, sleep, games, etc....😅😅)
+  Hi there~!!!👋 my name is Hyuntae, and I'm web developer </br>
+  I have experience 4 years of Web development.🚀 </br>
+  At present, I have working on creating Graph-QL APIs with Java and a web screen with Vue. </br>
+  </br>
+  In my free time, I enjoy experimenting with new web technologies, building personal projects. (Movies, sleep, games, etc....😅😅) </br>
   
 </div>
 <div align="left"> 
