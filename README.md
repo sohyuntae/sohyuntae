@@ -1,16 +1,16 @@
 <div align="left">
   <h2> 👨‍💻 About me </h2>
-  <a href="https://ssow93.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-  <a href="https://sotae.notion.site/67ea48a9c8394dd1ad2a4f6374ec097d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-  <a href="https://twitter.com/sotae69" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-  <a href="mailto:sotae69@gmail.com"><img src="https://img.shields.io/badge/sotae69@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  </br>
-  </br>
   Hi there~!!!👋 my name is Hyuntae, and I'm web developer </br>
   I have experience 4 years of Web development.🚀 </br>
   At present, I have working on creating Graph-QL APIs with Java and a web screen with Vue. </br>
   </br>
   In my free time, I enjoy experimenting with new web technologies, building personal projects. (Movies, sleep, games, etc....😅😅) </br>
+  </br>
+  </br>
+  <a href="https://ssow93.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="https://sotae.notion.site/67ea48a9c8394dd1ad2a4f6374ec097d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://twitter.com/sotae69" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+  <a href="mailto:sotae69@gmail.com"><img src="https://img.shields.io/badge/sotae69@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
 </div>
 <div align="left"> 
