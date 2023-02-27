@@ -4,7 +4,7 @@
   I have experience 4 years of Web development.🚀 </br>
   At present, I have working on creating Graph-QL APIs with Java and a web screen with Vue. </br>
   </br>
-  In my free time, I enjoy experimenting with new web technologies, building personal projects. (Movies, sleep, games, etc....😅😅) </br>
+  In my free time, I enjoy experimenting with new web technologies, building personal projects and etc....😅😅 </br>
   </br>
   </br>
   <a href="https://ssow93.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
