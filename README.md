@@ -19,6 +19,7 @@
       <h3>⭐Programming languages</h3>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1EF?style=flat-square&logo=JavaScript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java17-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
       </br>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
