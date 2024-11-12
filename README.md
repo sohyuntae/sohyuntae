@@ -1,10 +1,8 @@
 <div align="left">
   <h2> 👨‍💻 About me </h2>
-  Hi there~!!!👋 my name is Hyuntae, and I'm web developer </br>
-  I have experience 4 years of Web development.🚀 </br>
-  At present, I have working on creating Graph-QL APIs with Java and a web screen with Vue. </br>
-  </br>
-  In my free time, I enjoy experimenting with new web technologies, building personal projects and etc....😅😅 </br>
+  안녕하세요~! 저는 5년차 개발자 소현태 입니다. 🚀</br
+  GitHub를 통해서 오픈 소스의 내용을 확인 하고 어떤 이슈가 존재하는지 확인 보곤 합니다. </br>
+  내용은 별게 없지만 잘부탁 드립니다. </br>
   </br>
   </br>
   <a href="https://ssow93.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
