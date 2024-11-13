@@ -1,8 +1,10 @@
 <div align="left">
   <h2> 👨‍💻 About me </h2>
-  안녕하세요~! 저는 5년차 개발자 소현태 입니다. 🚀</br>
-  GitHub을 통해서는 오픈 소스의 내용도 확인 하고, 다른 개발자의 코드를 보고 배우고 있습니다. </br>
-  내용은 별게 없지만 잘 부탁 드립니다. </br>
+  5년차 웹 개발자 소현태 입니다. 👋🏻👋🏻 </br>
+  항상 배운다는 자세로 기본기 공부와 새로운 도전에 열정을 갖고 있습니다.🌱 </br>
+  팀과 함께 소통하고 성장하며 프로젝트를 만들어 나가고 싶습니다. 💻 </br>
+  
+  테스트 코드만 존재하며, 오픈 소스에 대한 호기심으로 여러 프로젝트를 fork하여 학습 중입니다. </br>
   </br>
   </br>
   <a href="https://ssow93.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
